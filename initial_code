@@ -3,4 +3,6 @@ main()
 Initial()
 {
 }
+Feature1()
+{}
 }
